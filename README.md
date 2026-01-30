@@ -90,3 +90,12 @@ File size & speed display
 Better UI design
 
 More media sources
+## ⚡ One Command Install
+
+```bash
+pkg update && pkg upgrade -y
+pkg install git -y
+git clone https://github.com/veryio/AmanMediaTool.git
+cd AmanMediaTool
+bash aman-media-tool.sh
+```
