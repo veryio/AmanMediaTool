@@ -1,4 +1,6 @@
 🚀 Aman Media Tool
+![Aman Media Tool Screenshot](screenshot.png)
+
 
 A powerful Termux-based Smart Media Search & Download Manager
 Created with ❤️ by Junoon Khan
