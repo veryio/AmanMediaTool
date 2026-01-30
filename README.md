@@ -1,4 +1,7 @@
-🚀 Aman Media Tool
+<p align="center">
+  <img src="banner.png" alt="Aman Media Tool Banner" width="100%">
+</p>
+   🚀 Aman Media Tool
 ![Aman Media Tool Screenshot](screenshot.png)
 
 
